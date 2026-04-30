@@ -60,7 +60,7 @@ h1::after{
         border-radius: 10px;
 }
 h1::before{
-    content: 'Welcome';
+    content: 'Welcome to CSS Animation';
     color: red;
     font-size: 15px;
     background-color: wheat;
